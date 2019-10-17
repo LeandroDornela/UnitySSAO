@@ -1,2 +1,5 @@
-# UnitySSAO
-Implementation of SSAO for Unity - 
+# Unity SSAO
+
+TODO:
+- Blur implementation.
+- Problem with normals.
